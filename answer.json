@@ -1,0 +1,19 @@
+{
+  "update_id": 66280246,
+  "message": {
+    "message_id": 1475,
+    "from": {
+      "id": 865107578,
+      "is_bot": false,
+      "first_name": "Deviant",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 865107578,
+      "first_name": "Deviant",
+      "type": "private"
+    },
+    "date": 1643292758,
+    "text": "vxv"
+  }
+}
